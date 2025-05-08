@@ -5,5 +5,5 @@ align-items: center; gap: 1rem; margin-left: 2rem;}
 .login {display: flex; gap: 0.5rem; padding: 0; margin: 0; margin-right: 2rem;}
 .login li {list-style: none;}
 .menu {display: flex; justify-content: center; margin-top: 1rem;}
-.menus {display: flex; gap: 1rem; padding: 0; margin: 0;}
+.menus {display: flex; gap: 2.5rem; padding: 0; margin: 0;}
 .menus li {list-style: none;}
