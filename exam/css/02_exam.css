@@ -1,0 +1,9 @@
+.example {
+  width: 100px; height: 100px; background-color: red;
+  float: left;
+}
+
+.example2 {
+  width: 100px; height: 100px; background-color: yellow;
+  float: right;
+}
